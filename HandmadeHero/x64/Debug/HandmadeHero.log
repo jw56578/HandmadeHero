@@ -1,3 +1,10 @@
 ﻿  win32_handmade.cpp
+c:\users\jwoo\documents\github\handmadehero\handmadehero\win32_handmade.cpp(14): warning C4091: 'static ': ignored on left of 'int' when no variable is declared
+c:\users\jwoo\documents\github\handmadehero\handmadehero\win32_handmade.cpp(16): warning C4091: 'static ': ignored on left of 'int' when no variable is declared
+c:\users\jwoo\documents\github\handmadehero\handmadehero\win32_handmade.cpp(17): warning C4091: 'static ': ignored on left of 'int' when no variable is declared
+c:\users\jwoo\documents\github\handmadehero\handmadehero\win32_handmade.cpp(18): warning C4091: 'static ': ignored on left of 'int' when no variable is declared
+c:\users\jwoo\documents\github\handmadehero\handmadehero\win32_handmade.cpp(22): warning C4091: 'static ': ignored on left of 'int' when no variable is declared
+c:\users\jwoo\documents\github\handmadehero\handmadehero\win32_handmade.cpp(25): warning C4091: 'static ': ignored on left of 'int' when no variable is declared
+c:\users\jwoo\documents\github\handmadehero\handmadehero\win32_handmade.cpp(52): warning C4091: 'static ': ignored on left of 'int' when no variable is declared
   HandmadeHero.vcxproj -> C:\Users\JWoo\Documents\GitHub\HandmadeHero\x64\Debug\HandmadeHero.exe
   HandmadeHero.vcxproj -> C:\Users\JWoo\Documents\GitHub\HandmadeHero\x64\Debug\HandmadeHero.pdb (Full PDB)
